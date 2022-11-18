@@ -7,6 +7,7 @@ My Anki deck to learn Japanese. I don't really care about being able to write, s
 1. Install [Anki](https://apps.ankiweb.net/)
    - `brew install --cask anki` || `sudo apt install anki` || `pacman -S anki`
 2. Go to File → Import... (`⇧ + ⌘ + I`) and select [Japanese 🇯🇵.apkg](./Japanese%20%F0%9F%87%AF%F0%9F%87%B5.apkg)
+   - Or just open the file and it will be automatically opened with Anki
 
 ## Subdecks
 
