@@ -10,11 +10,13 @@ My Anki deck to learn Japanese. I don't really care about being able to write, s
 
 ## Subdecks
 
-> Adding more content/subdecks as I progress with my Japanese
+- Adding more content/subdecks as I progress with my Japanese
+- Pretty much just copied from other users with little tweaks
 
 ### Hiragana
 
+- All hiraganas including [dakuten](https://www.tofugu.com/japanese/learn-hiragana/#dakuten--han-dakuten) and [combination hiragana](https://www.tofugu.com/japanese/learn-hiragana/#combination-hiragana)
 - From [Complete Hiragana practice deck](https://ankiweb.net/shared/info/843221611)
-- Removed writing cards
-- Fixed づ (dzu → du)
-- Fixed ぢ (dzi → di)
+  - Removed writing cards
+  - Fixed づ (dzu → du)
+  - Fixed ぢ (dzi → di)
